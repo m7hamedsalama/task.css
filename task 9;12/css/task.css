@@ -1,0 +1,60 @@
+.shape_one{
+    padding:50px 80px;
+    border: 5px red solid;
+    background-color: #ddd;
+    outline: 5px black solid;
+    margin: 20px;
+    display: inline-block;
+}
+.shape_two{
+    padding: 50px 80px;
+    border: 5px solid;
+    background-color: #ddd;
+    margin: 20px;
+    outline: 10px;
+    border-color: blue green;
+    outline: 5px black solid;
+    display: inline-block;
+}
+.shape_three{
+    padding: 50px 80px;
+    margin: 20px;
+    background-color: #ddd;
+    border: 5px dashed;
+    border-color: red green blue yellow;
+    outline: 5px black solid;
+
+    display: inline-block;
+}
+.element_element-1{
+                
+                   border-left: 10px solid #e91e63;
+                   padding: 10px;
+                   
+                   background-color: #ddd;
+                   width: 400px;
+                   height: 50px;
+                   margin: 20px ;
+                
+                   
+}
+.element_element-2{
+                    border-left: 10px solid lightseagreen;
+                    padding: 10px;
+                    background-color: #ddd;
+                    visibility: hidden;
+                    width: 400px;
+                    height: 50px;
+                    margin: 20px ;
+                    
+    
+}
+.element_element-3{
+                    border-left: 10px solid #009688;
+                    padding: 10px;
+                    background-color: #ddd;
+                    width: 400px;
+                    height: 50px;
+                    margin: 20px ;
+                    
+}

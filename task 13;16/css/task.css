@@ -1,0 +1,26 @@
+ div div span.title{
+    color: red;
+    
+}
+div span.title{
+    color: blue;
+}
+
+div p,
+div.title{
+             color: green;
+}
+.n,
+.p,
+.o,
+.q{
+    background-color: #a52a2a ;
+    
+    padding: 10px;
+    margin: 20px;
+    text-transform: capitalize;
+    width: fit-content;
+    max-width: 400px;
+    max-height: 20px;
+    overflow: hidden;
+}

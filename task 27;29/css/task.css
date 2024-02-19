@@ -1,0 +1,42 @@
+ .full{
+    width: 800px;
+    background-color: #eee;
+    margin: 20px auto;
+ }
+ .full div{
+    background-color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px 0;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+ }
+ .clear{
+    clear: both;
+ }
+ .first{
+    width: calc(100%-30px);
+ }
+ .second{
+    width: calc((100%-60px)/3);
+ }
+
+
+ /* assignment 2 */
+ div {
+   margin: 20px auto;
+   width: 300px;
+   font-weight: bold;
+   font-size: 1rem;
+   padding: 20px;
+   color: #000;
+   background-color: #ddd
+   
+ }
+ .one{
+   background-color: rgb(179 179 179 /0.1);
+ }
+ .two{
+   opacity: 0.1;
+ }

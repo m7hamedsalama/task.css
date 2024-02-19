@@ -1,0 +1,195 @@
+.green,
+.red,
+.blue,
+.black{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+    
+}
+.green{
+    background-color: #009688;
+    top: 30px;
+    left: 30px;
+
+}
+.red{
+    background-color: #f44336;
+    top: 50px;
+    left: 50px
+    
+}
+.blue{
+    background-color: #03a9f4;
+    
+    top: 20px;
+    left: 20px;
+}
+.black{
+    background-color: black;
+    top: 36px;
+    left: 20px;
+}
+
+div.lorem{
+    margin: 20px auto;
+    border: solid;
+    padding: 20px;
+    
+    border-color:red rgb(33 150 243) ;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+    
+    
+
+}
+div span.top-left{
+    color: #eeeeee;
+    background-color: rgb(33 150 243);
+    border-right: red solid;
+    padding: 5px;
+    width: 15px;
+    position: absolute;
+    left: 500px;
+    top: 14px;
+    
+    
+    
+}
+div span.bottom-left{
+    color: #eeeeee;
+    background-color: rgb(33 150 243);
+    border-right: red solid;
+    padding: 5px;
+    width: 15px;
+    position: absolute;
+    left: 500px;
+    top: 125px;
+    
+    
+    
+}
+div span.top-right{
+    color: #eeeeee;
+    background-color: rgb(33 150 243);
+    border-left: red solid;
+    padding: 5px;
+    width: 15px;
+    position: absolute;
+    left: 950px;
+    top: 10px;
+    
+    
+    
+}
+div span.bottom-right{
+    color: #eeeeee;
+    background-color: rgb(33 150 243);
+    border-left: red solid;
+    padding: 5px;
+    width: 15px;
+    position: absolute;
+    left: 950px;
+    top: 127px;
+    
+}
+hr{
+    margin-top: 20px;
+}
+.top{
+    width: 400px;
+    
+    margin: 50px auto;
+}
+.html,
+.css,
+.java{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding: 10px ;
+    background-color: #ddd;
+    margin-bottom: 20px;
+    list-style: none;
+    margin-left: 10px;
+
+    
+}
+.html ol,
+.css ol{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    margin: 10px;
+        
+    
+
+}
+.html ol li,
+.css ol li{
+    background-color: white;
+    padding: 5px;
+    margin: 10px ;
+}
+.java-1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0;
+    margin: 10px;
+    
+
+    
+}
+.java ul li{
+    padding: 10px;
+    margin: 10px 0;
+    background-color: white;
+    list-style-position: inside;
+}
+.css ol{
+    list-style-type: lower-roman;
+}
+table{
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+table thead{
+    margin: 20px;
+    padding: 20px;
+    background-color: #404040;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold
+    
+}
+table thead th{
+    color: white;
+    margin: 30px auto;
+    padding: 30px;
+}
+table tbody tr{
+    padding: 40px;
+    margin: 10px;
+    background-color: #ddd;
+}
+table tr td .button{
+    color: white;
+    background-color: #03a9f4;
+    padding: 10px;
+    margin: 10px;
+    border: #03a9f4;
+
+}
+table tr td .delete{
+    color: white;
+    background-color: #e91e63;
+    padding: 10px;
+    margin: 10px;
+    border: #e91e63;
+
+}
